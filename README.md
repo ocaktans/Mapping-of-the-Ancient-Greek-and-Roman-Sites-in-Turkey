@@ -6,7 +6,7 @@
 
 ##### Data is scraped from Wikipedia. Wikipedia has lists of the ancient Greek and Roman sites in Turkey. The link for the Roman page is [here](https://en.wikipedia.org/wiki/Category:Roman_sites_in_Turkey). First page of the Greek sites is [here](https://en.wikipedia.org/wiki/Category:Ancient_Greek_archaeological_sites_in_Turkey).
 
-##### A vector image that was [Designed by Freepik](http://www.freepik.com) is edited to be used as custom icons. 
+##### A vector image that was [Designed by Freepik](http://www.freepik.com) is edited to be used for custom icons. 
 
 ### The Goal of the Project
 
