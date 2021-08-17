@@ -20,4 +20,4 @@ A Jupyter notebook that displays all steps from scratch can also be found in the
 
 A CSV file that contains the sites with their location data can also be found here.
 
-Finally, the map can be found as an HTML file. Rendered version of the map can be found [here](https://ocaktans.github.io/Mapping-of-the-Ancient-Greek-and-Roman-Sites-in-Turkey/themap.html).
+Finally, the map can be found as an HTML file in the "docs" folder. Rendered version of the map can be found [here](https://ocaktans.github.io/Mapping-of-the-Ancient-Greek-and-Roman-Sites-in-Turkey/themap.html).
