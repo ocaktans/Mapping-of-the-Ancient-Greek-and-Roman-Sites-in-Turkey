@@ -16,8 +16,8 @@ This project aims to collect spatial data for the ancient Greek and Roman sites 
 
 This repository has the necessary icons. The URLs of these icons are used in the process. 
 
-A Jupyter notebook that displays all steps from scratch can also be found in the repository. The notebook performs web scraping with BeautifulSoup and created functions. It also creates the map and edits it with folium. Steps are explained in the notebook.
+A Jupyter notebook that displays all steps from scratch can also be found in the repository. The notebook performs web scraping with BeautifulSoup and created functions. It also creates the map and edits it with folium. The steps are explained in the notebook.
 
 A CSV file that contains the sites with their location data can also be found here.
 
-Finally, the map can be found as an HTML file in the "docs" folder. Rendered version of the map can be found [here](https://ocaktans.github.io/Mapping-of-the-Ancient-Greek-and-Roman-Sites-in-Turkey/themap.html).
+Finally, the map can be found as an HTML file in the "docs" folder. Rendered version of the map is [here](https://ocaktans.github.io/Mapping-of-the-Ancient-Greek-and-Roman-Sites-in-Turkey/themap.html).
