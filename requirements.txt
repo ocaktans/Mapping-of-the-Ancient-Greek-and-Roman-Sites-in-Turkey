@@ -1,0 +1,6 @@
+requests
+folium
+pandas
+beautifulsoup4
+ipyleaflet
+jupyter
